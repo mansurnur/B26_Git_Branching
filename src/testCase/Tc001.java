@@ -10,6 +10,13 @@ public class Tc001 {
 
         //negative testing
 
+
+        //adding them to smoke test
+
+
+        //more useful information
+
+
     }
 
 
